@@ -54,7 +54,7 @@
 </head>
 <body>
 
-<button id="c1" onclick="clickc1()">Consonent</button>
+<button id="c1" onclick="clickc1()">Consonant</button>
 <h1 id="con1">
 
 </h1>
@@ -62,7 +62,7 @@
 <h1 id="vowel">
 
 </h1>
-<button id="c2" onclick="clickc2()">Consonent</button>
+<button id="c2" onclick="clickc2()">Consonant</button>
 <h1 id="con2">
 
 </h1>
